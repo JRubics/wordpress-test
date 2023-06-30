@@ -1,0 +1,23 @@
+# Things to try
+- install wordpress ✅
+- update wordpress ✅
+- create backup
+- restore backup
+- install plugin
+- install theme ✅
+- create and update pages ✅
+- check database schema
+- check file structure
+- add media ✅
+- make private page
+- add authentication
+- create users
+- use wp-cli
+- customize header
+- customize footer ✅
+- add widget ✅
+- customize menu ✅
+- update social icons ✅
+- change font
+- deploy to gavin
+- test brizy
