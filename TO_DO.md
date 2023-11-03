@@ -1,10 +1,13 @@
 # Things to try
 - install wordpress ✅
-- update wordpress ✅
+- update wordpress ✅ - 6.2.2-6.3.2
 - create backup
 - restore backup
-- install plugin
+- install plugin ✅ - brizy
+- update plugin ✅
+- delete plugin ✅
 - install theme ✅
+- update theme ✅
 - create and update pages ✅
 - check database schema
 - check file structure
@@ -20,4 +23,4 @@
 - update social icons ✅
 - change font
 - deploy to gavin
-- test brizy
+- test brizy ✅
