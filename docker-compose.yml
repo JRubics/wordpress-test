@@ -22,7 +22,7 @@ services:
       MARIADB_DATABASE: exampledb
       MARIADB_USER: exampleuser
       MARIADB_PASSWORD: examplepass
-      MARIADB_RANDOM_ROOT_PASSWORD: '1'
+      MARIADB_RANDOM_ROOT_PASSWORD: '0'
     volumes:
       - db:/var/lib/mysql
 

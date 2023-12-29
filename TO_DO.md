@@ -1,26 +1,29 @@
 # Things to try
 - install wordpress ✅
 - update wordpress ✅ - 6.2.2-6.3.2
-- create backup
-- restore backup
+- backup database ✅
+- backup files ✅
+- restore database ✅
+- restore files ✅
 - install plugin ✅ - brizy
 - update plugin ✅
 - delete plugin ✅
 - install theme ✅
 - update theme ✅
 - create and update pages ✅
-- check database schema
-- check file structure
+- check database schema ✅
+- check file structure ✅
 - add media ✅
-- make private page
-- add authentication
-- create users
-- use wp-cli
-- customize header
+- make private page ✅
+- add authentication ✅ - WP User Manager plugin
+- create users ✅
+- install wp-cli ✅
+- use wp-cli ✅
+- customize header ✅
 - customize footer ✅
 - add widget ✅
 - customize menu ✅
 - update social icons ✅
-- change font
+- change font ✅
 - deploy to gavin
 - test brizy ✅
